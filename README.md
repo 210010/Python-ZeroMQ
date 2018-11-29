@@ -1,5 +1,5 @@
-# Python-ZeroMQ
-Python ZeroMQ
+# Python ZeroMQ
+Python ØMQ
 
 # Installation
 ---
